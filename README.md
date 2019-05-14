@@ -1,1 +1,1 @@
-# 一个基于react、redux实现的TodoList
+# 一个基于React、Redux实现的TodoList
